@@ -17,5 +17,5 @@
 Ligand Activity prediction for similar targets.
 
 A set of labeled datasets on the experimental activity of small molecules on COVID-19 is given.
-You have to build structure-activity relationship for COVID-19 targets. Classification metric F1-score will be used for the leaderboard.
+The task is to build structure-activity relationship for COVID-19 targets. Classification metric F1-score is used to evaluate the quality of the solution.
 
